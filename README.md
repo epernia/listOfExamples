@@ -1,17 +1,19 @@
-# listOfExamples
+# List of examples
 
-* https://github.com/armBookCodeExamples/example_1-1.git
-* https://github.com/armBookCodeExamples/example_1-2.git
-* https://github.com/armBookCodeExamples/example_1-3.git
-* https://github.com/armBookCodeExamples/example_1-4.git
-* https://github.com/armBookCodeExamples/example_1-5.git
+## Chapter 1
+- [Example_1-1](https://github.com/armBookCodeExamples/example_1-1.git)
+- [Example_1-2](https://github.com/armBookCodeExamples/example_1-2.git)
+- [Example_1-3](https://github.com/armBookCodeExamples/example_1-3.git)
+- [Example_1-4](https://github.com/armBookCodeExamples/example_1-4.git)
+- [Example_1-5](https://github.com/armBookCodeExamples/example_1-5.git)
 
-* https://github.com/armBookCodeExamples/subsection_2-2-1.git
-* https://github.com/armBookCodeExamples/example_2-1.git
-* https://github.com/armBookCodeExamples/example_2-2.git
-* https://github.com/armBookCodeExamples/example_2-3.git
-* https://github.com/armBookCodeExamples/example_2-4.git
-* https://github.com/armBookCodeExamples/example_2-5.git
+## Chapter 2
+- [Subsection 2-2-1](https://github.com/armBookCodeExamples/subsection_2-2-1.git)
+- [Example_2-1](https://github.com/armBookCodeExamples/example_2-1.git)
+- [Example_2-2](https://github.com/armBookCodeExamples/example_2-2.git)
+- [Example_2-3](https://github.com/armBookCodeExamples/example_2-3.git)
+- [Example_2-4](https://github.com/armBookCodeExamples/example_2-4.git)
+- [Example_2-5](https://github.com/armBookCodeExamples/example_2-5.git)
 
 * https://github.com/armBookCodeExamples/subsection_3-2-2.git
 * https://github.com/armBookCodeExamples/example_3-1.git
