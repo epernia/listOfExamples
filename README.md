@@ -11,7 +11,7 @@
 
 <!-- Chapter 1 -->
   <tr>
-    <td rowspan="6" align"center">1</td>
+    <td rowspan="6" text-align"center">1</td>
     <td>3.2.3</td>
     <td>
 	  <a href="https://github.com/armBookCodeExamples/subsection_1-2-3">
@@ -62,7 +62,7 @@
 
 <!-- Chapter 2 -->
   <tr>
-    <td rowspan="6" align"center">2</td>
+    <td rowspan="6" text-align"center">2</td>
     <td>3.2.3</td>
     <td>
 	  <a href="https://github.com/armBookCodeExamples/subsection_1-2-3">
@@ -113,7 +113,7 @@
 
 <!-- Chapter 3 -->
   <tr>
-    <td rowspan="6" align"center">3</td>
+    <td rowspan="6" text-align"center">3</td>
     <td>3.2.3</td>
     <td>
 	  <a href="https://github.com/armBookCodeExamples/subsection_1-2-3">
@@ -164,7 +164,7 @@
 
 <!-- Chapter 4 -->
   <tr>
-    <td rowspan="6" align"center">4</td>
+    <td rowspan="6" text-align"center">4</td>
     <td>3.2.3</td>
     <td>
 	  <a href="https://github.com/armBookCodeExamples/subsection_1-2-3">
@@ -215,7 +215,7 @@
 
 <!-- Chapter 5 -->
   <tr>
-    <td rowspan="7" align"center">5</td>
+    <td rowspan="7" text-align"center">5</td>
     <td>2.2.1</td>
     <td>
 	  <a href="https://github.com/armBookCodeExamples/subsection_2-2-1_bin">
@@ -272,5 +272,4 @@
 	</td>
   </tr>
 
-<!-- html comment -->
 </table>
