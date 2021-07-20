@@ -139,7 +139,7 @@
   </tr>
 // ------------------
   <tr>
-    <td rowspan="7" style="background: rgba(255, 255, 255,0); text-align: center;">2</td>
+    <td rowspan="7" style="text-align: center;">2</td>
     <td>2.2.1</td>
     <td>
 	  <a href="https://github.com/armBookCodeExamples/subsection_2-2-1_bin">
