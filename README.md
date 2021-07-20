@@ -2,6 +2,11 @@
 
 
 <table>
+<tr>
+<td><b>Chapter</b></td>
+<td><b>Section</b></td>
+<td><b>Repository URL</b></td>
+</tr>
 <tr><td rowspan="6">1</td><td>1.2.3</td><td><a href="https://github.com/armBookCodeExamples/subsection_1-2-3">https://github.com/armBookCodeExamples/subsection_1-2-3</a></td></tr>
 <tr><td>Example 1-1</td><td><a href="https://github.com/armBookCodeExamples/example_1-1">https://github.com/armBookCodeExamples/example_1-1</a></td></tr>
 <tr><td>Example 1-2</td><td><a href="https://github.com/armBookCodeExamples/example_1-2">https://github.com/armBookCodeExamples/example_1-2</a></td></tr>
