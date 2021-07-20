@@ -196,6 +196,57 @@
 	</td>
   </tr>
 
+<!-- html comment -->
+  <tr>
+    <td rowspan="6" style="text-align: center;">3</td>
+    <td>3.2.3</td>
+    <td>
+	  <a href="https://github.com/armBookCodeExamples/subsection_1-2-3">
+	    https://github.com/armBookCodeExamples/subsection_1-2-3
+	  </a>
+	</td> 
+  </tr>
+  <tr>
+    <td>Example 3-1</td>
+    <td>
+	  <a href="https://github.com/armBookCodeExamples/example_1-1">
+	    https://github.com/armBookCodeExamples/example_1-1
+	  </a>
+	</td> 
+  </tr>
+  <tr>
+    <td>Example 3-1</td>
+    <td>
+	  <a href="https://github.com/armBookCodeExamples/example_1-1">
+	    https://github.com/armBookCodeExamples/example_1-1
+	  </a>
+	</td> 
+  </tr>
+  <tr>
+    <td>Example 3-1</td>
+    <td>
+	  <a href="https://github.com/armBookCodeExamples/example_1-1">
+	    https://github.com/armBookCodeExamples/example_1-1
+	  </a>
+	</td> 
+  </tr>
+  <tr>
+    <td>Example 3-1</td>
+    <td>
+	  <a href="https://github.com/armBookCodeExamples/example_1-1">
+	    https://github.com/armBookCodeExamples/example_1-1
+	  </a>
+	</td> 
+  </tr>
+  <tr>
+    <td>Example 3-1</td>
+    <td>
+	  <a href="https://github.com/armBookCodeExamples/example_1-1">
+	    https://github.com/armBookCodeExamples/example_1-1
+	  </a>
+	</td> 
+  </tr>
+
   <tr>
     <td rowspan="6" style="text-align: center;">3</td>
     <td>3.2.3</td>
