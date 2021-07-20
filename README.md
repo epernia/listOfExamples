@@ -11,7 +11,7 @@
 
 <!-- Chapter 1 -->
   <tr>
-    <td rowspan="6" align="center" background="#FFF">1</td>
+    <td rowspan="6" align="center" background-color="#FFF">1</td>
     <td>1.2.3</td>
     <td>
 	  <a href="https://github.com/armBookCodeExamples/subsection_1-2-3">
