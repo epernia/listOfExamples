@@ -87,7 +87,7 @@
     <td><b>Section</b></td> 
     <td><b>Repository URL</b></td> 
   </tr>
-// ------------------
+
   <tr>
     <td rowspan="6" style="text-align: center;">1</td>
     <td>1.2.3</td>
@@ -137,7 +137,7 @@
 	  </a>
 	</td> 
   </tr>
-// ------------------
+
   <tr>
     <td rowspan="7" style="background: #FFF; text-align: center;">2</td>
     <td>2.2.1</td>
@@ -195,7 +195,7 @@
 	  </a>
 	</td>
   </tr>
-// ------------------
+
   <tr>
     <td rowspan="6" style="text-align: center;">3</td>
     <td>3.2.3</td>
@@ -245,5 +245,5 @@
 	  </a>
 	</td> 
   </tr>
-// ------------------
+
 </table>
