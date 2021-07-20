@@ -198,7 +198,7 @@
 
 <!-- html comment -->
   <tr>
-    <td rowspan="6" style="text-align: center;">3</td>
+    <td rowspan="6"><center>3</center></td>
     <td>3.2.3</td>
     <td>
 	  <a href="https://github.com/armBookCodeExamples/subsection_1-2-3">
