@@ -82,20 +82,23 @@
 * https://github.com/armBookCodeExamples/example_12-8.git
 
 <table>
+
+<!-- Titles -->
   <tr>
     <td><b>Chapter</b></td> 
     <td><b>Section</b></td> 
     <td><b>Repository URL</b></td> 
   </tr>
 
+<!-- Chapter 1 -->
   <tr>
-    <td rowspan="6" style="text-align: center;">1</td>
+    <td rowspan="6" align="center">1</td>
     <td>1.2.3</td>
     <td>
 	  <a href="https://github.com/armBookCodeExamples/subsection_1-2-3">
 	    https://github.com/armBookCodeExamples/subsection_1-2-3
 	  </a>
-	</td> 
+    </td> 
   </tr>
   <tr>
     <td>Example 1-1</td>
@@ -138,8 +141,9 @@
 	</td> 
   </tr>
 
+<!-- Chapter 2 -->
   <tr>
-    <td rowspan="7" style="background: #FFF; text-align: center;">2</td>
+    <td rowspan="7">2</td>
     <td>2.2.1</td>
     <td>
 	  <a href="https://github.com/armBookCodeExamples/subsection_2-2-1_bin">
@@ -196,9 +200,9 @@
 	</td>
   </tr>
 
-<!-- html comment -->
+<!-- Chapter 3 -->
   <tr>
-    <td rowspan="6"><center>3</center></td>
+    <td rowspan="6">3</td>
     <td>3.2.3</td>
     <td>
 	  <a href="https://github.com/armBookCodeExamples/subsection_1-2-3">
@@ -247,8 +251,9 @@
 	</td> 
   </tr>
 
+<!-- Chapter 4 -->
   <tr>
-    <td rowspan="6" style="text-align: center;">3</td>
+    <td rowspan="6" style="text-align: center;">4</td>
     <td>3.2.3</td>
     <td>
 	  <a href="https://github.com/armBookCodeExamples/subsection_1-2-3">
@@ -297,9 +302,9 @@
 	</td> 
   </tr>
 
-
+<!-- Chapter 5 -->
   <tr>
-    <td rowspan="7" style="background: #FFF; text-align: center;">2</td>
+    <td rowspan="7" style="background: #FFF; text-align: center;">5</td>
     <td>2.2.1</td>
     <td>
 	  <a href="https://github.com/armBookCodeExamples/subsection_2-2-1_bin">
